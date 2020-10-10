@@ -9,7 +9,7 @@ function preload()
 {
   button = createButton("MOTIVATION BEHIND",450)
   button2 = createButton("Play",450)
-  bg = loadImage("images/cool-backgrounds.png")
+  bg = loadImage("cool-backgrounds.png")
 
 }
 
